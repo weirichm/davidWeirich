@@ -1,2 +1,2 @@
-# davidWeirich
-website for big bro
+# David Weirich
+coming soon!
