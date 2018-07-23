@@ -1,0 +1,12 @@
+.aboutInfo {
+    margin-left: 80px;
+}
+
+.primaryFont {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.columns__about {
+    width: 70%;
+    margin: auto;
+}
