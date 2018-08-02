@@ -1,5 +1,5 @@
 .aboutInfo {
-    margin-left: 80px;
+    margin-left: 40px;
 }
 
 .primaryFont {
@@ -9,4 +9,31 @@
 .columns__about {
     width: 70%;
     margin: auto;
+}
+
+#div_about {
+    height: 450px;
+    background-color: #1e337f;
+    color: white;
+    overflow-y: auto;
+    padding-left: 20px;
+    margin-right: 25px;
+}
+
+.title_about {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.location_about {
+    font-size: .8em;
+}
+
+#title_math {
+    color: #1e337f;
+    font-weight: bold;
+}
+
+.paragraph_math {
+    color: #1e337f;
 }
