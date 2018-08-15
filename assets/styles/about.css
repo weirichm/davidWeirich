@@ -13,7 +13,7 @@
 
 #div_about {
     height: 450px;
-    background-color: #1e337f;
+    background-color: #18215f;
     color: white;
     overflow-y: auto;
     padding-left: 20px;
@@ -30,10 +30,10 @@
 }
 
 #title_math {
-    color: #1e337f;
+    color: #18215f;
     font-weight: bold;
 }
 
 .paragraph_math {
-    color: #1e337f;
+    color: #18215f;
 }
